@@ -1,0 +1,162 @@
+﻿@using BlazorEventEase.Client.Models
+@using Microsoft.AspNetCore.Components.Forms
+
+<article class="event-card">
+    @if (Editable)
+    {
+        <EditForm Model="Event"
+                  OnValidSubmit="SaveAsync"
+                  FormName="@FormName">
+            <DataAnnotationsValidator />
+
+            <div class="event-card__body">
+                <div class="mb-3">
+                    <label for="@NameInputId" class="form-label">
+                        Nombre
+                    </label>
+
+                    <InputText id="@NameInputId"
+                               class="form-control"
+                               @bind-Value="Event.Name"
+                               @bind-Value:after="NotifyEventChangedAsync" />
+
+                    <ValidationMessage For="() => Event.Name" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="@DateInputId" class="form-label">
+                        Fecha
+                    </label>
+
+                    <InputDate id="@DateInputId"
+                               class="form-control"
+                               @bind-Value="Event.Date"
+                               @bind-Value:after="NotifyEventChangedAsync" />
+
+                    <ValidationMessage For="() => Event.Date" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="@LocationInputId" class="form-label">
+                        Ubicación
+                    </label>
+
+                    <InputText id="@LocationInputId"
+                               class="form-control"
+                               @bind-Value="Event.Location"
+                               @bind-Value:after="NotifyEventChangedAsync" />
+
+                    <ValidationMessage For="() => Event.Location" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="@DescriptionInputId" class="form-label">
+                        Descripción
+                    </label>
+
+                    <InputTextArea id="@DescriptionInputId"
+                                   class="form-control"
+                                   @bind-Value="Event.Description"
+                                   @bind-Value:after="NotifyEventChangedAsync" />
+
+                    <ValidationMessage For="() => Event.Description" />
+                </div>
+            </div>
+
+            <footer class="event-card__footer">
+                <button type="submit" class="btn btn-primary">
+                    Guardar
+                </button>
+
+                <button type="button"
+                        class="btn btn-outline-secondary"
+                        @onclick="OpenDetailsAsync">
+                    Ver detalle
+                </button>
+            </footer>
+        </EditForm>
+    }
+    else
+    {
+        <div class="event-card__body">
+            <h2 class="event-card__title">
+                @DisplayName
+            </h2>
+
+            <dl class="event-card__details">
+                <div>
+                    <dt>Fecha</dt>
+                    <dd>@Event.Date.ToString("dd/MM/yyyy")</dd>
+                </div>
+
+                <div>
+                    <dt>Ubicación</dt>
+                    <dd>@DisplayLocation</dd>
+                </div>
+            </dl>
+
+            @if (!string.IsNullOrWhiteSpace(Event.Description))
+            {
+                <p>@Event.Description</p>
+            }
+        </div>
+
+        <footer class="event-card__footer">
+            <button type="button"
+                    class="btn btn-outline-primary"
+                    @onclick="OpenDetailsAsync">
+                Ver detalle
+            </button>
+        </footer>
+    }
+</article>
+
+@code {
+    [Parameter, EditorRequired]
+    public EventModel Event { get; set; } = default!;
+
+    // Event + EventChanged habilita @bind-Event.
+    [Parameter]
+    public EventCallback<EventModel> EventChanged { get; set; }
+
+    [Parameter]
+    public EventCallback<EventModel> OnSave { get; set; }
+
+    [Parameter]
+    public EventCallback<Guid> OnOpenDetails { get; set; }
+
+    [Parameter]
+    public bool Editable { get; set; }
+
+    private string FormName => $"event-form-{Event.Id:N}";
+    private string NameInputId => $"event-name-{Event.Id:N}";
+    private string DateInputId => $"event-date-{Event.Id:N}";
+    private string LocationInputId => $"event-location-{Event.Id:N}";
+    private string DescriptionInputId => $"event-description-{Event.Id:N}";
+
+    private string DisplayName =>
+        string.IsNullOrWhiteSpace(Event.Name)
+            ? "Evento sin nombre"
+            : Event.Name;
+
+    private string DisplayLocation =>
+        string.IsNullOrWhiteSpace(Event.Location)
+            ? "Ubicación no disponible"
+            : Event.Location;
+
+    private Task NotifyEventChangedAsync()
+    {
+        return EventChanged.InvokeAsync(Event);
+    }
+
+    private async Task SaveAsync()
+    {
+        await EventChanged.InvokeAsync(Event);
+        await OnSave.InvokeAsync(Event);
+    }
+
+    private Task OpenDetailsAsync()
+    {
+        return OnOpenDetails.InvokeAsync(Event.Id);
+    }
+}
