@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mhr1J/P63Dw=",
+  "success": true,
+  "projectFilePath": "H:\\COURSERA IMP\\Blazor Tarea\\BlazorEventEaseCOURSERA\\BlazorEventEase\\BlazorEventEase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\applysol\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
+    "C:\\Users\\applysol\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.11\\microsoft.aspnetcore.components.webassembly.10.0.11.nupkg.sha512",
+    "C:\\Users\\applysol\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.11\\microsoft.aspnetcore.components.webassembly.server.10.0.11.nupkg.sha512",
+    "C:\\Users\\applysol\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.11\\microsoft.jsinterop.webassembly.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
