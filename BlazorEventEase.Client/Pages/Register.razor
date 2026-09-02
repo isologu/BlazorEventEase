@@ -1,0 +1,148 @@
+﻿@page "/registro"
+@rendermode InteractiveAuto
+
+@using BlazorEventEase.Client.Models
+@using BlazorEventEase.Client.Services
+@using Microsoft.AspNetCore.Components.Forms
+
+@inject IUserSessionTracker SessionTracker
+@inject NavigationManager Navigation
+
+<PageTitle>Registro | EventEase</PageTitle>
+
+<h1>Registro de usuario</h1>
+
+<p class="lead">
+    Captura tus datos para iniciar una sesión en EventEase.
+</p>
+
+@if (!isInteractive)
+{
+    <div class="alert alert-info" role="status">
+        Preparando el formulario...
+    </div>
+}
+else if (SessionTracker.IsActive)
+{
+    <div class="alert alert-success" role="status">
+        Ya existe una sesión activa para
+        <strong>@SessionTracker.CurrentSession?.Name</strong>.
+    </div>
+
+    <div class="d-flex gap-2">
+        <button type="button"
+                class="btn btn-primary"
+                @onclick="OpenEvents">
+            Ver eventos
+        </button>
+
+        <button type="button"
+                class="btn btn-outline-secondary"
+                @onclick="OpenSession">
+            Ver sesión
+        </button>
+    </div>
+}
+else
+{
+    <EditForm Model="registration"
+              OnValidSubmit="RegisterAsync"
+              FormName="user-registration">
+        <DataAnnotationsValidator />
+
+        <div class="mb-3">
+            <label for="registration-name"
+                   class="form-label">
+                Nombre
+            </label>
+
+            <InputText id="registration-name"
+                       class="form-control"
+                       @bind-Value="registration.Name"
+                       autocomplete="name"
+                       aria-describedby="name-validation" />
+
+            <div id="name-validation">
+                <ValidationMessage For="() => registration.Name" />
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label for="registration-email"
+                   class="form-label">
+                Correo electrónico
+            </label>
+
+            <InputText id="registration-email"
+                       class="form-control"
+                       type="email"
+                       @bind-Value="registration.Email"
+                       autocomplete="email"
+                       aria-describedby="email-validation" />
+
+            <div id="email-validation">
+                <ValidationMessage For="() => registration.Email" />
+            </div>
+        </div>
+
+        <ValidationSummary />
+
+        <button type="submit"
+                class="btn btn-primary"
+                disabled="@isSubmitting">
+            @(isSubmitting ? "Registrando..." : "Registrarse")
+        </button>
+    </EditForm>
+}
+
+@code {
+    private readonly RegistrationModel registration = new();
+
+    private bool isInteractive;
+    private bool isSubmitting;
+
+    protected override async Task OnAfterRenderAsync(
+        bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+
+        await SessionTracker.InitializeAsync();
+
+        isInteractive = true;
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private async Task RegisterAsync()
+    {
+        if (isSubmitting)
+        {
+            return;
+        }
+
+        try
+        {
+            isSubmitting = true;
+
+            await SessionTracker.StartAsync(registration);
+
+            Navigation.NavigateTo("/eventease");
+        }
+        finally
+        {
+            isSubmitting = false;
+        }
+    }
+
+    private void OpenEvents()
+    {
+        Navigation.NavigateTo("/eventease");
+    }
+
+    private void OpenSession()
+    {
+        Navigation.NavigateTo("/");
+    }
+}

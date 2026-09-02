@@ -1,0 +1,120 @@
+﻿@page "/eventease"
+@rendermode InteractiveAuto
+
+@using BlazorEventEase.Client.Components
+@using BlazorEventEase.Client.Models
+@using BlazorEventEase.Client.Services
+@inject IUserSessionTracker SessionTracker
+@inject IEventStore EventStore
+@inject NavigationManager Navigation
+
+<PageTitle>EventEase</PageTitle>
+
+<h1>EventEase</h1>
+
+@if (!sessionReady)
+{
+    <div class="alert alert-info" role="status">
+        Verificando la sesión...
+    </div>
+}
+else if (!SessionTracker.IsActive)
+{
+    <div class="alert alert-warning" role="alert">
+        Para consultar los eventos primero debes registrarte.
+    </div>
+
+    <button type="button"
+            class="btn btn-primary"
+            @onclick="OpenRegistration">
+        Ir al registro
+    </button>
+}
+else
+{
+    @* Coloca aquí el listado actual de EventCard. *@
+
+
+
+
+    <p class="lead">
+        Consulta y actualiza los próximos eventos.
+    </p>
+
+    @if (events.Count == 0)
+    {
+        <div class="alert alert-info" role="status">
+            No existen eventos registrados.
+        </div>
+    }
+    else
+    {
+        <div class="row g-4">
+            @foreach (var eventModel in events)
+            {
+                <div class="col-12 col-md-6 col-xl-4"
+                     @key="eventModel.Id">
+                    <EventCard Event="@eventModel"
+                               Editable="true"
+                               OnSave="SaveEvent"
+                               OnOpenDetails="OpenEventDetails" />
+                </div>
+            }
+        </div>
+    }
+
+    @if (!string.IsNullOrWhiteSpace(statusMessage))
+    {
+        <div class="alert alert-success mt-4"
+             role="status"
+             aria-live="polite">
+            @statusMessage
+        </div>
+    }
+}
+
+@code {
+    private List<EventModel> events = [];
+    private string? statusMessage;
+
+    protected override void OnInitialized()
+    {
+        events = EventStore.GetAll().ToList();
+    }
+
+    private Task SaveEvent(EventModel eventModel)
+    {
+        EventStore.Update(eventModel);
+        statusMessage = $"Se guardó el evento “{eventModel.Name}”.";
+
+        return Task.CompletedTask;
+    }
+
+    private void OpenEventDetails(Guid id)
+    {
+        Navigation.NavigateTo($"/eventease/detalle/{id}");
+    }
+
+    private bool sessionReady;
+
+    protected override async Task OnAfterRenderAsync(
+        bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+
+        await SessionTracker.InitializeAsync();
+
+        sessionReady = true;
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private void OpenRegistration()
+    {
+        Navigation.NavigateTo("/registro");
+    }
+
+
+}

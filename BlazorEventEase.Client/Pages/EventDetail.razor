@@ -1,0 +1,80 @@
+﻿@page "/eventease/detalle/{Id:guid}"
+@rendermode InteractiveAuto
+
+@using BlazorEventEase.Client.Components
+@using BlazorEventEase.Client.Models
+@using BlazorEventEase.Client.Services
+@inject IEventStore EventStore
+@inject NavigationManager Navigation
+
+<PageTitle>Detalle del evento</PageTitle>
+
+@if (eventModel is null)
+{
+    <div class="alert alert-warning" role="alert">
+        No se encontró el evento solicitado.
+    </div>
+
+    <button class="btn btn-secondary"
+            type="button"
+            @onclick="ReturnToList">
+        Regresar a eventos
+    </button>
+}
+else
+{
+    <h1>Detalle del evento</h1>
+
+    <div class="event-detail">
+        <EventCard @bind-Event="eventModel"
+                   Editable="true"
+                   OnSave="SaveEvent"
+                   OnOpenDetails="IgnoreOpenDetails" />
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(statusMessage))
+    {
+        <div class="alert alert-success mt-3"
+             role="status"
+             aria-live="polite">
+            @statusMessage
+        </div>
+    }
+
+    <button class="btn btn-link mt-3"
+            type="button"
+            @onclick="ReturnToList">
+        Regresar a eventos
+    </button>
+}
+
+@code {
+    [Parameter]
+    public Guid Id { get; set; }
+
+    private EventModel? eventModel;
+    private string? statusMessage;
+
+    protected override void OnParametersSet()
+    {
+        eventModel = EventStore.GetById(Id);
+    }
+
+    private Task SaveEvent(EventModel updatedEvent)
+    {
+        EventStore.Update(updatedEvent);
+        statusMessage = "Los cambios se guardaron correctamente.";
+
+        return Task.CompletedTask;
+    }
+
+    private static Task IgnoreOpenDetails(Guid id)
+    {
+        return Task.CompletedTask;
+    }
+
+    private void ReturnToList()
+    {
+        Navigation.NavigateTo("/eventease");
+    }
+}

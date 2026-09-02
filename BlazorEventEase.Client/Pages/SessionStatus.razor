@@ -1,0 +1,68 @@
+﻿@using BlazorEventEase.Client.Services
+@inject IUserSessionTracker SessionTracker
+@inject NavigationManager Navigation
+@implements IDisposable
+
+<div class="session-status">
+    @if (!SessionTracker.IsInitialized)
+    {
+        <span class="text-secondary">
+            Sesión no inicializada
+        </span>
+    }
+    else if (SessionTracker.IsActive)
+    {
+        <button type="button"
+                class="btn btn-sm btn-outline-success"
+                @onclick="OpenSession">
+            @SessionTracker.CurrentSession?.Name
+        </button>
+    }
+    else
+    {
+        <button type="button"
+                class="btn btn-sm btn-outline-primary"
+                @onclick="OpenRegistration">
+            Registrarse
+        </button>
+    }
+</div>
+
+@code {
+    protected override void OnInitialized()
+    {
+        SessionTracker.SessionChanged += HandleSessionChanged;
+    }
+
+    protected override async Task OnAfterRenderAsync(
+        bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+
+        await SessionTracker.InitializeAsync();
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private void OpenSession()
+    {
+        Navigation.NavigateTo("/sesion");
+    }
+
+    private void OpenRegistration()
+    {
+        Navigation.NavigateTo("/registro");
+    }
+
+    private void HandleSessionChanged()
+    {
+        _ = InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        SessionTracker.SessionChanged -= HandleSessionChanged;
+    }
+}

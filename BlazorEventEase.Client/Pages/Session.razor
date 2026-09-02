@@ -1,0 +1,139 @@
+﻿@page "/sesion"
+@rendermode InteractiveAuto
+
+@using BlazorEventEase.Client.Models
+@using BlazorEventEase.Client.Services
+
+@inject IUserSessionTracker SessionTracker
+@inject NavigationManager Navigation
+
+@implements IDisposable
+
+<PageTitle>Sesión | EventEase</PageTitle>
+
+<h1>Sesión de usuario</h1>
+
+@if (!SessionTracker.IsInitialized)
+{
+    <div class="alert alert-info" role="status">
+        Recuperando la sesión...
+    </div>
+}
+else if (!SessionTracker.IsActive)
+{
+    <div class="alert alert-warning" role="alert">
+        No existe una sesión activa.
+    </div>
+
+    <button type="button"
+            class="btn btn-primary"
+            @onclick="OpenRegistration">
+        Ir al registro
+    </button>
+}
+else
+{
+    var session = SessionTracker.CurrentSession!;
+
+    <section class="card">
+        <div class="card-body">
+            <h2 class="h4 card-title">
+                @session.Name
+            </h2>
+
+            <dl class="row mb-0">
+                <dt class="col-sm-4">Correo electrónico</dt>
+                <dd class="col-sm-8">@session.Email</dd>
+
+                <dt class="col-sm-4">Identificador</dt>
+                <dd class="col-sm-8">
+                    <code>@session.SessionId</code>
+                </dd>
+
+                <dt class="col-sm-4">Inicio</dt>
+                <dd class="col-sm-8">
+                    @FormatDate(session.StartedAtUtc)
+                </dd>
+
+                <dt class="col-sm-4">Última actividad</dt>
+                <dd class="col-sm-8">
+                    @FormatDate(session.LastActivityAtUtc)
+                </dd>
+
+                <dt class="col-sm-4">Estado</dt>
+                <dd class="col-sm-8">
+                    <span class="badge text-bg-success">
+                        Activa
+                    </span>
+                </dd>
+            </dl>
+        </div>
+    </section>
+
+    <div class="d-flex flex-wrap gap-2 mt-3">
+        <button type="button"
+                class="btn btn-outline-primary"
+                @onclick="RegisterActivityAsync">
+            Registrar actividad
+        </button>
+
+        <button type="button"
+                class="btn btn-outline-danger"
+                @onclick="EndSessionAsync">
+            Finalizar sesión
+        </button>
+    </div>
+}
+
+@code {
+    protected override void OnInitialized()
+    {
+        SessionTracker.SessionChanged += HandleSessionChanged;
+    }
+
+    protected override async Task OnAfterRenderAsync(
+        bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+
+        await SessionTracker.InitializeAsync();
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private static string FormatDate(
+        DateTimeOffset utcDate)
+    {
+        return utcDate
+            .ToLocalTime()
+            .ToString("dd/MM/yyyy HH:mm:ss");
+    }
+
+    private Task RegisterActivityAsync()
+    {
+        return SessionTracker.RegisterActivityAsync();
+    }
+
+    private async Task EndSessionAsync()
+    {
+        await SessionTracker.EndAsync();
+        Navigation.NavigateTo("/registro");
+    }
+
+    private void OpenRegistration()
+    {
+        Navigation.NavigateTo("/registro");
+    }
+
+    private void HandleSessionChanged()
+    {
+        _ = InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        SessionTracker.SessionChanged -= HandleSessionChanged;
+    }
+}
