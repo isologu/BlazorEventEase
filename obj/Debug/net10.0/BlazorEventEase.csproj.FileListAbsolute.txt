@@ -1,0 +1,535 @@
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.runtime.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\appsettings.Development.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\appsettings.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.runtime.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.exe
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.deps.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.pdb
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\EmbeddedAttribute.cs
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.AssemblyReference.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.GeneratedMSBuildEditorConfig.editorconfig
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfoInputs.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfo.cs
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.CoreCompileInputs.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.MvcApplicationPartsAssemblyInfo.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\scopedcss\bundle\BlazorEventEase.styles.css
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\scopedcss\projectbundle\BlazorEventEase.bundle.scp.css
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\f2v8xg8ou2-{0}-khy4lop6wu-khy4lop6wu.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\650pu1xv37-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\eivhyfrmgg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\pzncctowe5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\9wrz0qmnx2-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\6823g5tnwt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\rbpspvdmqu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\jqgeq2509d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\gvme0vpl2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\xdgvsoxlrt-{0}-ub07r2b239-ub07r2b239.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\cjgfo4rbq1-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\trg1mkq1ue-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\xhw12nlmtd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\kfllyho2w5-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\alceizrmmu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\qnhsx1cqcc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\j4xnzs654v-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\t9xjmnxg7i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\9cydzo4x5i-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\pc2k0uvrwc-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\bx92jsua6k-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\7vg1t4148a-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\odh3ft8abz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\hpzq9muu18-{0}-06098lyss8-06098lyss8.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\q5o1pl8prk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\53ocv5a5jz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\nz0s7fk7o9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\fwg10zqetw-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\ad5nozywuo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\9uqudrecvw-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\mp9i8x70nw-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\39l0lqkl54-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\zoqq9rlrke-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\iglw2tr6ur-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\o4p7wm72vc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\7dl28ielew-{0}-493y06b0oq-493y06b0oq.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\sl36q3tdkm-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\12v4c9gpah-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\y3bpvsyein-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\50og5tc4rw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\d7nta4mz9o-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\dvtqvtkllf-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\5aovvhudcc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\ah1eaknv2d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\jp99iwttdh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\r0o018rl6t-{0}-zn85ie8way-zn85ie8way.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\9c3hhoy44b-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\yzw2dwa9tu-{0}-wfr2hj6447-wfr2hj6447.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\nro4fdwc6l-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\compressed\lzxsdxec0u-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\staticwebassets.development.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\swae.build.ex.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEv.BEB10DE2.Up2Date
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\refint\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.genruntimeconfig.cache
+F:\COURSERA\Blazor\BlazorEventEase\BlazorEventEase\obj\Debug\net10.0\ref\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\appsettings.Development.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\appsettings.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.runtime.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.runtime.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.exe
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.deps.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.runtimeconfig.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.pdb
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\EmbeddedAttribute.cs
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.AssemblyReference.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.GeneratedMSBuildEditorConfig.editorconfig
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfoInputs.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfo.cs
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.CoreCompileInputs.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.MvcApplicationPartsAssemblyInfo.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\bundle\BlazorEventEase.styles.css
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\projectbundle\BlazorEventEase.bundle.scp.css
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\f2v8xg8ou2-{0}-khy4lop6wu-khy4lop6wu.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\650pu1xv37-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\eivhyfrmgg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\pzncctowe5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9wrz0qmnx2-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\6823g5tnwt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\rbpspvdmqu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\jqgeq2509d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\gvme0vpl2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\xdgvsoxlrt-{0}-ub07r2b239-ub07r2b239.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\cjgfo4rbq1-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\trg1mkq1ue-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\xhw12nlmtd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\kfllyho2w5-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\alceizrmmu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\qnhsx1cqcc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\j4xnzs654v-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\t9xjmnxg7i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9cydzo4x5i-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\pc2k0uvrwc-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\bx92jsua6k-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\7vg1t4148a-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\odh3ft8abz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\hpzq9muu18-{0}-06098lyss8-06098lyss8.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\q5o1pl8prk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\53ocv5a5jz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\nz0s7fk7o9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\fwg10zqetw-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\ad5nozywuo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9uqudrecvw-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\mp9i8x70nw-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\39l0lqkl54-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\zoqq9rlrke-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\iglw2tr6ur-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\o4p7wm72vc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\7dl28ielew-{0}-493y06b0oq-493y06b0oq.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\sl36q3tdkm-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\12v4c9gpah-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\y3bpvsyein-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\50og5tc4rw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\d7nta4mz9o-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\dvtqvtkllf-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\5aovvhudcc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\ah1eaknv2d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\jp99iwttdh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\r0o018rl6t-{0}-zn85ie8way-zn85ie8way.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9c3hhoy44b-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\yzw2dwa9tu-{0}-wfr2hj6447-wfr2hj6447.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\nro4fdwc6l-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\lzxsdxec0u-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.development.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\swae.build.ex.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEv.BEB10DE2.Up2Date
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\refint\BlazorEventEase.dll
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.genruntimeconfig.cache
+F:\COURSERA\Blazor\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\ref\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\EmbeddedAttribute.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.AssemblyReference.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.GeneratedMSBuildEditorConfig.editorconfig
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfoInputs.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfo.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.CoreCompileInputs.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.MvcApplicationPartsAssemblyInfo.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\bundle\BlazorEventEase.styles.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\scopedcss\projectbundle\BlazorEventEase.bundle.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\f2v8xg8ou2-{0}-khy4lop6wu-khy4lop6wu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\650pu1xv37-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\eivhyfrmgg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\pzncctowe5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9wrz0qmnx2-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\6823g5tnwt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\rbpspvdmqu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\jqgeq2509d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\gvme0vpl2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\xdgvsoxlrt-{0}-ub07r2b239-ub07r2b239.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\cjgfo4rbq1-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\trg1mkq1ue-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\xhw12nlmtd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\kfllyho2w5-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\alceizrmmu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\qnhsx1cqcc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\j4xnzs654v-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\t9xjmnxg7i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9cydzo4x5i-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\pc2k0uvrwc-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\bx92jsua6k-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\7vg1t4148a-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\odh3ft8abz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\hpzq9muu18-{0}-06098lyss8-06098lyss8.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\q5o1pl8prk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\53ocv5a5jz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\nz0s7fk7o9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\fwg10zqetw-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\ad5nozywuo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9uqudrecvw-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\mp9i8x70nw-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\39l0lqkl54-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\zoqq9rlrke-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\iglw2tr6ur-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\o4p7wm72vc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\7dl28ielew-{0}-493y06b0oq-493y06b0oq.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\sl36q3tdkm-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\12v4c9gpah-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\y3bpvsyein-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\50og5tc4rw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\d7nta4mz9o-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\dvtqvtkllf-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\5aovvhudcc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\ah1eaknv2d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\jp99iwttdh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\r0o018rl6t-{0}-zn85ie8way-zn85ie8way.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\9c3hhoy44b-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\yzw2dwa9tu-{0}-wfr2hj6447-wfr2hj6447.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\nro4fdwc6l-{0}-e81odwtydr-e81odwtydr.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\compressed\lzxsdxec0u-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\refint\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.runtime.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\appsettings.Development.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\appsettings.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.runtime.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.exe
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.deps.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.development.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\swae.build.ex.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEv.BEB10DE2.Up2Date
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.genruntimeconfig.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEase  bak 2026 08 23\BlazorEventEase\obj\Debug\net10.0\ref\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\appsettings.Development.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\appsettings.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.runtime.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.runtime.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.exe
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.deps.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.runtimeconfig.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\EmbeddedAttribute.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.AssemblyReference.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.GeneratedMSBuildEditorConfig.editorconfig
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfoInputs.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfo.cs
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.CoreCompileInputs.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.MvcApplicationPartsAssemblyInfo.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\bundle\BlazorEventEase.styles.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\projectbundle\BlazorEventEase.bundle.scp.css
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\f2v8xg8ou2-{0}-khy4lop6wu-khy4lop6wu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\650pu1xv37-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\eivhyfrmgg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\pzncctowe5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9wrz0qmnx2-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\6823g5tnwt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\rbpspvdmqu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\jqgeq2509d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\gvme0vpl2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\xdgvsoxlrt-{0}-ub07r2b239-ub07r2b239.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\cjgfo4rbq1-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\trg1mkq1ue-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\xhw12nlmtd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\kfllyho2w5-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\alceizrmmu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\qnhsx1cqcc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\j4xnzs654v-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\t9xjmnxg7i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9cydzo4x5i-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\pc2k0uvrwc-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\bx92jsua6k-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\7vg1t4148a-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\odh3ft8abz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\hpzq9muu18-{0}-06098lyss8-06098lyss8.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\q5o1pl8prk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\53ocv5a5jz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\nz0s7fk7o9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\fwg10zqetw-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\ad5nozywuo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9uqudrecvw-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\mp9i8x70nw-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\39l0lqkl54-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\zoqq9rlrke-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\iglw2tr6ur-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\o4p7wm72vc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\7dl28ielew-{0}-493y06b0oq-493y06b0oq.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\sl36q3tdkm-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\12v4c9gpah-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\y3bpvsyein-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\50og5tc4rw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\d7nta4mz9o-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\dvtqvtkllf-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\5aovvhudcc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\ah1eaknv2d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\jp99iwttdh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\r0o018rl6t-{0}-zn85ie8way-zn85ie8way.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9c3hhoy44b-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\yzw2dwa9tu-{0}-wfr2hj6447-wfr2hj6447.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\nro4fdwc6l-{0}-e81odwtydr-e81odwtydr.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\lzxsdxec0u-{0}-w2wkm59ays-w2wkm59ays.gz
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.development.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\swae.build.ex.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEv.BEB10DE2.Up2Date
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\refint\BlazorEventEase.dll
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.pdb
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.genruntimeconfig.cache
+F:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\ref\BlazorEventEase.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.runtimeconfig.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.runtime.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.staticwebassets.endpoints.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\appsettings.Development.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\appsettings.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\BrowserDebugProxy.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorDebugProxy\Newtonsoft.Json.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.runtime.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.staticwebassets.endpoints.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.exe
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.deps.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.runtimeconfig.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.pdb
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\bin\Debug\net10.0\BlazorEventEase.Client.pdb
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\EmbeddedAttribute.cs
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.AssemblyReference.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.GeneratedMSBuildEditorConfig.editorconfig
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfoInputs.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.AssemblyInfo.cs
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.csproj.CoreCompileInputs.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.MvcApplicationPartsAssemblyInfo.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjimswa.dswa.cache.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\bundle\BlazorEventEase.styles.css
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\scopedcss\projectbundle\BlazorEventEase.bundle.scp.css
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\f2v8xg8ou2-{0}-khy4lop6wu-khy4lop6wu.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\650pu1xv37-{0}-bqjiyaj88i-bqjiyaj88i.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\eivhyfrmgg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\pzncctowe5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9wrz0qmnx2-{0}-aexeepp0ev-aexeepp0ev.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\6823g5tnwt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\rbpspvdmqu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\jqgeq2509d-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\gvme0vpl2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\xdgvsoxlrt-{0}-ub07r2b239-ub07r2b239.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\cjgfo4rbq1-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\trg1mkq1ue-{0}-b7pk76d08c-b7pk76d08c.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\xhw12nlmtd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\kfllyho2w5-{0}-rzd6atqjts-rzd6atqjts.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\alceizrmmu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\qnhsx1cqcc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\j4xnzs654v-{0}-jd9uben2k1-jd9uben2k1.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\t9xjmnxg7i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9cydzo4x5i-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\pc2k0uvrwc-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\bx92jsua6k-{0}-c2oey78nd0-c2oey78nd0.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\7vg1t4148a-{0}-tdbxkamptv-tdbxkamptv.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\odh3ft8abz-{0}-j5mq2jizvt-j5mq2jizvt.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\hpzq9muu18-{0}-06098lyss8-06098lyss8.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\q5o1pl8prk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\53ocv5a5jz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\nz0s7fk7o9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\fwg10zqetw-{0}-46ein0sx1k-46ein0sx1k.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\ad5nozywuo-{0}-v0zj4ognzu-v0zj4ognzu.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9uqudrecvw-{0}-37tfw0ft22-37tfw0ft22.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\mp9i8x70nw-{0}-hrwsygsryq-hrwsygsryq.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\39l0lqkl54-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\zoqq9rlrke-{0}-ft3s53vfgj-ft3s53vfgj.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\iglw2tr6ur-{0}-6cfz1n2cew-6cfz1n2cew.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\o4p7wm72vc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\7dl28ielew-{0}-493y06b0oq-493y06b0oq.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\sl36q3tdkm-{0}-iovd86k7lj-iovd86k7lj.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\12v4c9gpah-{0}-vr1egmr9el-vr1egmr9el.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\y3bpvsyein-{0}-kbrnm935zg-kbrnm935zg.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\50og5tc4rw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\d7nta4mz9o-{0}-y7v9cxd14o-y7v9cxd14o.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\dvtqvtkllf-{0}-notf2xhcfb-notf2xhcfb.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\5aovvhudcc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\ah1eaknv2d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\jp99iwttdh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\r0o018rl6t-{0}-zn85ie8way-zn85ie8way.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\9c3hhoy44b-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\yzw2dwa9tu-{0}-wfr2hj6447-wfr2hj6447.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\nro4fdwc6l-{0}-e81odwtydr-e81odwtydr.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\compressed\lzxsdxec0u-{0}-w2wkm59ays-w2wkm59ays.gz
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.json.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.development.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\swae.build.ex.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEv.BEB10DE2.Up2Date
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\refint\BlazorEventEase.dll
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.pdb
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\BlazorEventEase.genruntimeconfig.cache
+H:\COURSERA IMP\Blazor Tarea\BlazorEventEaseCOURSERA\BlazorEventEase\obj\Debug\net10.0\ref\BlazorEventEase.dll

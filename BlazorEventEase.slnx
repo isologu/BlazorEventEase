@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BlazorEventEase.Client/BlazorEventEase.Client.csproj" />
+  <Project Path="BlazorEventEase/BlazorEventEase.csproj" />
+</Solution>
